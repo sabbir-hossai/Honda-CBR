@@ -1,9 +1,12 @@
 .cbr-primary{
-    height: ;
    background-color: #264653 !important;
    color:white;
 
 }
+ 
+ .grayscale {
+   filter: grayscale(100%);
+ }
 .cbr-orange{
    background-color:#E77C40;
 }
