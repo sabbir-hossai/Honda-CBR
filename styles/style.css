@@ -4,10 +4,16 @@
    color:white;
 
 }
+.cbr-orange{
+   background-color:#E77C40;
+}
  .star-secondary{
     
     color:#E77C40;
  }
  body{
    font-family: 'Poppins', sans-serif;
+ }
+ baiker-img {
+   border-radius: 50%;
  }
